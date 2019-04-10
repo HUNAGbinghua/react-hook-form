@@ -1,0 +1,13 @@
+{
+  "projectName": "react hook form",
+  "projectOwner": "bluebill1049",
+  "repoType": "github",
+  "repoHost": "https://github.com/bluebill1049/react-hook-form",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "contributors": [],
+  "contributorsPerLine": 7
+}
